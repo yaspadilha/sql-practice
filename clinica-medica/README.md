@@ -23,8 +23,6 @@ medicos         ← consultas → pacientes
 
 ## 📌 Queries exploradas
 
-- Quantidade de faltas nas consultas pra cada paciente
-- Quantidade de pacientes atendidos por médico em determinado mês
-- Custo estimado de convênio por período
-- Pacientes sem consulta nos últimos 6 meses
-- Inadimplência de planos por convênio
+- [Quantidade de faltas nas consultas pra cada paciente](./queries/01_faltas_no_mes.sql)
+- [Pacientes sem consulta nos últimos 6 meses](./queries/03_pacientes_sem_consulta_ultimos_6_meses.sql)
+- [Inadimplência de planos por convênio](./queries/02_inadimplencia_por_convenio.sql)
